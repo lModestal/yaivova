@@ -27,6 +27,5 @@ def registr(message):
 def back(message):
     bot.send_message(message.chat.id, 'вы в начале')
     send_welcome(message)
-    	
-
+    vova eblan
 bot.infinity_polling()
